@@ -1,0 +1,144 @@
+{
+  "uid" : "ad311a8828d1d18f",
+  "name" : "РџСЂРѕРІРµСЂРєР° СЃРѕР·РґР°РЅРёСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ, РєРѕС‚РѕСЂС‹Р№ СѓР¶Рµ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅ.",
+  "fullName" : "tests.UserCreatingTests.checkRegisteredUserTest",
+  "historyId" : "a3e7d6cd2e275441336570aa155e7ea",
+  "time" : {
+    "start" : 1747420432378,
+    "stop" : 1747420433915,
+    "duration" : 1537
+  },
+  "description" : "Р РµРіРёСЃС‚СЂР°С†РёСЏ СѓР¶Рµ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+  "descriptionHtml" : "<p>Р РµРіРёСЃС‚СЂР°С†РёСЏ СѓР¶Рµ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Р РµРіРёСЃС‚СЂР°С†РёСЏ СѓР¶Рµ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "РЈСЃРїРµС€РЅРѕРµ СЃРѕР·РґР°РЅРёРµ СѓРЅРёРєР°Р»СЊРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+      "time" : {
+        "start" : 1747420432378,
+        "stop" : 1747420432650,
+        "duration" : 272
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@5f38dc75"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РЈСЃРїРµС€РЅРѕРµ СЃРѕР·РґР°РЅРёРµ СѓРЅРёРєР°Р»СЊРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+      "time" : {
+        "start" : 1747420432653,
+        "stop" : 1747420432802,
+        "duration" : 149
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@5f38dc75"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р›РѕРіРёРЅ РїРѕРґ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј.",
+      "time" : {
+        "start" : 1747420432829,
+        "stop" : 1747420433054,
+        "duration" : 225
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@5f38dc75"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РЈРґР°Р»РµРЅРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ",
+      "time" : {
+        "start" : 1747420433060,
+        "stop" : 1747420433915,
+        "duration" : 855
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "accessToken",
+        "value" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4Mjc4NTEwOWVkMjgwMDAxYjVlZTQwNyIsImlhdCI6MTc0NzQyMDQzMywiZXhwIjoxNzQ3NDIxNjMzfQ.WKyYG3wTUx8zWLyq_df3RYeBO19aGtSgUXJdn341aBY"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.UserCreatingTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkRegisteredUserTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.UserCreatingTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NKC7L2N"
+  }, {
+    "name" : "thread",
+    "value" : "504@DESKTOP-NKC7L2N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "РЎРѕР·РґР°РЅРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad311a8828d1d18f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,174 @@
+{
+  "uid" : "aba0ac8cf7e7fdf",
+  "name" : "РЎРѕР·РґР°РЅРёРµ Р·Р°РєР°Р·Р° Р±РµР· РёРЅРіСЂРµРґРёРµРЅС‚РѕРІ Рё Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.",
+  "fullName" : "tests.CreateOrderTest.createEmptyOrderWithoutAuthorization",
+  "historyId" : "bd3a6df38c7a14de3b2633a3d978fcdb",
+  "time" : {
+    "start" : 1747420419097,
+    "stop" : 1747420420708,
+    "duration" : 1611
+  },
+  "description" : "РџСЂРѕРІРµСЂРєР° СЃРѕР·РґР°РЅРёСЏ Р·Р°РєР°Р·Р° Р±РµР· РёРЅРіСЂРµРґРёРµРЅС‚РѕРІ Рё Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.",
+  "descriptionHtml" : "<p>РџСЂРѕРІРµСЂРєР° СЃРѕР·РґР°РЅРёСЏ Р·Р°РєР°Р·Р° Р±РµР· РёРЅРіСЂРµРґРёРµРЅС‚РѕРІ Рё Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "РџСЂРѕРІРµСЂРєР° СЃРѕР·РґР°РЅРёСЏ Р·Р°РєР°Р·Р° Р±РµР· РёРЅРіСЂРµРґРёРµРЅС‚РѕРІ Рё Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "РЈСЃРїРµС€РЅРѕРµ СЃРѕР·РґР°РЅРёРµ СѓРЅРёРєР°Р»СЊРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+      "time" : {
+        "start" : 1747420419097,
+        "stop" : 1747420419355,
+        "duration" : 258
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@3d587c73"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р›РѕРіРёРЅ РїРѕРґ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј.",
+      "time" : {
+        "start" : 1747420419355,
+        "stop" : 1747420419599,
+        "duration" : 244
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@3d587c73"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РЎРѕР·РґР°РЅРёРµ Р·Р°РєР°Р·Р° Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.",
+      "time" : {
+        "start" : 1747420419630,
+        "stop" : 1747420419810,
+        "duration" : 180
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5b32e795bfdb7fe",
+        "name" : "Request",
+        "source" : "5b32e795bfdb7fe.html",
+        "type" : "text/html",
+        "size" : 548
+      }, {
+        "uid" : "eae28a4ec3ee272b",
+        "name" : "HTTP/1.1 400 Bad Request",
+        "source" : "eae28a4ec3ee272b.html",
+        "type" : "text/html",
+        "size" : 650
+      } ],
+      "parameters" : [ {
+        "name" : "order",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.Order@16c9ec5b"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РЎРѕР·РґР°РЅРёРµ Р·Р°РєР°Р·Р° Р±РµР· РёРЅРіСЂРµРґРёРµРЅС‚РѕРІ.",
+      "time" : {
+        "start" : 1747420419810,
+        "stop" : 1747420419815,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "response",
+        "value" : "io.restassured.internal.RestAssuredResponseImpl@1a389b39"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РЈРґР°Р»РµРЅРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ",
+      "time" : {
+        "start" : 1747420419815,
+        "stop" : 1747420420708,
+        "duration" : 893
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "accessToken",
+        "value" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4Mjc4NTAzOWVkMjgwMDAxYjVlZTNmNCIsImlhdCI6MTc0NzQyMDQxOSwiZXhwIjoxNzQ3NDIxNjE5fQ.YLUFY8VTm9U-O4mVtlXzrjquGwKBKYO8RAZ6pt4RxI8"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.CreateOrderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createEmptyOrderWithoutAuthorization"
+  }, {
+    "name" : "suite",
+    "value" : "tests.CreateOrderTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NKC7L2N"
+  }, {
+    "name" : "thread",
+    "value" : "504@DESKTOP-NKC7L2N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "РЎРѕР·РґР°РЅРёРµ Р·Р°РєР°Р·Р°"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aba0ac8cf7e7fdf.json",
+  "parameterValues" : [ ]
+}

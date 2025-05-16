@@ -1,0 +1,147 @@
+{
+  "uid" : "b25999ab5edc99c0",
+  "name" : "Р�Р·РјРµРЅРµРЅРёРµ email РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ СЃ Р°РІС‚РѕСЂРёР·Р°С†РёРµР№.",
+  "fullName" : "tests.ChangeUserTest.changeUserEmailWithAuthorizationTest",
+  "historyId" : "2f970b77a901d3d326cdcb758ed6dc2f",
+  "time" : {
+    "start" : 1747420407613,
+    "stop" : 1747420409147,
+    "duration" : 1534
+  },
+  "description" : "РЈСЃРїРµС€РЅРѕРµ РёР·РјРµРЅРµРЅРёРµ email РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ СЃ Р°РІС‚РѕСЂРёР·Р°С†РёРµР№.",
+  "descriptionHtml" : "<p>РЈСЃРїРµС€РЅРѕРµ РёР·РјРµРЅРµРЅРёРµ email РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ СЃ Р°РІС‚РѕСЂРёР·Р°С†РёРµР№.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "РЈСЃРїРµС€РЅРѕРµ РёР·РјРµРЅРµРЅРёРµ email РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ СЃ Р°РІС‚РѕСЂРёР·Р°С†РёРµР№.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "РЈСЃРїРµС€РЅРѕРµ СЃРѕР·РґР°РЅРёРµ СѓРЅРёРєР°Р»СЊРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+      "time" : {
+        "start" : 1747420407613,
+        "stop" : 1747420407870,
+        "duration" : 257
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@74d3b331"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р›РѕРіРёРЅ РїРѕРґ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј.",
+      "time" : {
+        "start" : 1747420407870,
+        "stop" : 1747420408121,
+        "duration" : 251
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@74d3b331"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р�Р·РјРµРЅРµРЅРёРµ РґР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ СЃ Р°РІС‚РѕСЂРёР·Р°С†РёРµР№.",
+      "time" : {
+        "start" : 1747420408133,
+        "stop" : 1747420408298,
+        "duration" : 165
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@765eb801"
+      }, {
+        "name" : "token",
+        "value" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4Mjc4NGY3OWVkMjgwMDAxYjVlZTNlNCIsImlhdCI6MTc0NzQyMDQwOCwiZXhwIjoxNzQ3NDIxNjA4fQ.zeCt7hXm1a2QScY8yXiUylc53-uFko-KXAT4eMpZT6c"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РЈРґР°Р»РµРЅРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ",
+      "time" : {
+        "start" : 1747420408316,
+        "stop" : 1747420409147,
+        "duration" : 831
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "accessToken",
+        "value" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4Mjc4NGY3OWVkMjgwMDAxYjVlZTNlNCIsImlhdCI6MTc0NzQyMDQwOCwiZXhwIjoxNzQ3NDIxNjA4fQ.zeCt7hXm1a2QScY8yXiUylc53-uFko-KXAT4eMpZT6c"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ChangeUserTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "changeUserEmailWithAuthorizationTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.ChangeUserTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NKC7L2N"
+  }, {
+    "name" : "thread",
+    "value" : "504@DESKTOP-NKC7L2N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Р�Р·РјРµРЅРµРЅРёРµ РґР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b25999ab5edc99c0.json",
+  "parameterValues" : [ ]
+}

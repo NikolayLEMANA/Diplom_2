@@ -1,0 +1,126 @@
+{
+  "uid" : "edb8dc456b1c63d4",
+  "name" : "РђРІС‚РѕСЂРёР·Р°С†РёСЏ СЃ РЅРµРІРµСЂРЅС‹Рј Р»РѕРіРёРЅРѕРј.",
+  "fullName" : "tests.LoginUserTests.authorizationIncorrectLoginTest",
+  "historyId" : "feee9d2939a5c8a6cb5df6fb1cc0a817",
+  "time" : {
+    "start" : 1747420422216,
+    "stop" : 1747420422551,
+    "duration" : 335
+  },
+  "description" : "РђРІС‚РѕСЂРёР·Р°С†РёСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ c РЅРµРєРѕСЂСЂРµРєС‚РЅС‹Рј Р»РѕРіРёРЅРѕРј.",
+  "descriptionHtml" : "<p>РђРІС‚РѕСЂРёР·Р°С†РёСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ c РЅРµРєРѕСЂСЂРµРєС‚РЅС‹Рј Р»РѕРіРёРЅРѕРј.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "РђРІС‚РѕСЂРёР·Р°С†РёСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ c РЅРµРєРѕСЂСЂРµРєС‚РЅС‹Рј Р»РѕРіРёРЅРѕРј.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Р›РѕРіРёРЅ РїРѕРґ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј.",
+      "time" : {
+        "start" : 1747420422216,
+        "stop" : 1747420422375,
+        "duration" : 159
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@4390b78f"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р›РѕРіРёРЅ СЃ РЅРµРІРµСЂРЅС‹Рј Р»РѕРіРёРЅРѕРј Рё РїР°СЂРѕР»РµРј.",
+      "time" : {
+        "start" : 1747420422375,
+        "stop" : 1747420422393,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "response",
+        "value" : "io.restassured.internal.RestAssuredResponseImpl@1847da64"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р›РѕРіРёРЅ РїРѕРґ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј.",
+      "time" : {
+        "start" : 1747420422393,
+        "stop" : 1747420422551,
+        "duration" : 158
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@4390b78f"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.LoginUserTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "authorizationIncorrectLoginTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.LoginUserTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NKC7L2N"
+  }, {
+    "name" : "thread",
+    "value" : "504@DESKTOP-NKC7L2N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Р›РѕРіРёРЅ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edb8dc456b1c63d4.json",
+  "parameterValues" : [ ]
+}
