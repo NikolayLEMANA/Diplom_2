@@ -1,0 +1,126 @@
+{
+  "uid" : "98bb9b589bde5e44",
+  "name" : "РџСЂРѕРІРµСЂРєР° СЃРѕР·РґР°РЅРёСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ Р±РµР· email.",
+  "fullName" : "tests.UserCreatingTests.createUserWithoutEmailTest",
+  "historyId" : "e273ed6235500dd5da1ae95dc81ff919",
+  "time" : {
+    "start" : 1747420429165,
+    "stop" : 1747420429652,
+    "duration" : 487
+  },
+  "description" : "Р РµРіРёСЃС‚СЂР°С†РёСЏ РїРѕРІРµСЂРєР° РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ Р±РµР· email, РЅРѕ СЃ Р·Р°РїРѕР»РЅРµРЅРЅС‹РјРё РёРјРµРЅРµРј Рё РїР°СЂРѕР»РµРј",
+  "descriptionHtml" : "<p>Р РµРіРёСЃС‚СЂР°С†РёСЏ РїРѕРІРµСЂРєР° РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ Р±РµР· email, РЅРѕ СЃ Р·Р°РїРѕР»РЅРµРЅРЅС‹РјРё РёРјРµРЅРµРј Рё РїР°СЂРѕР»РµРј</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Р РµРіРёСЃС‚СЂР°С†РёСЏ РїРѕРІРµСЂРєР° РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ Р±РµР· email, РЅРѕ СЃ Р·Р°РїРѕР»РЅРµРЅРЅС‹РјРё РёРјРµРЅРµРј Рё РїР°СЂРѕР»РµРј",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "РЈСЃРїРµС€РЅРѕРµ СЃРѕР·РґР°РЅРёРµ СѓРЅРёРєР°Р»СЊРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+      "time" : {
+        "start" : 1747420429165,
+        "stop" : 1747420429321,
+        "duration" : 156
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@1cbb6037"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РќРµСѓСЃРїРµС€РЅС‹Р№ РѕС‚РІРµС‚ СЃРµСЂРІРµСЂР° РЅР° СЂРµРіРёСЃС‚СЂР°С†РёСЋ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+      "time" : {
+        "start" : 1747420429321,
+        "stop" : 1747420429353,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "response",
+        "value" : "io.restassured.internal.RestAssuredResponseImpl@2e8ff687"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р›РѕРіРёРЅ РїРѕРґ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј.",
+      "time" : {
+        "start" : 1747420429353,
+        "stop" : 1747420429620,
+        "duration" : 267
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@1cbb6037"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.UserCreatingTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "createUserWithoutEmailTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.UserCreatingTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NKC7L2N"
+  }, {
+    "name" : "thread",
+    "value" : "504@DESKTOP-NKC7L2N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "РЎРѕР·РґР°РЅРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98bb9b589bde5e44.json",
+  "parameterValues" : [ ]
+}

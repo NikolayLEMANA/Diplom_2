@@ -1,0 +1,126 @@
+{
+  "uid" : "8657db11507f008a",
+  "name" : "РџРѕР»СѓС‡РµРЅРёРµ СЃРїРёСЃРєР° Р·Р°РєР°Р·РѕРІ Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.",
+  "fullName" : "tests.OrderGetTests.getUserOrderWithoutAuthorizationTest",
+  "historyId" : "209f2c176398e130f8218c2cea734c47",
+  "time" : {
+    "start" : 1747420427395,
+    "stop" : 1747420428781,
+    "duration" : 1386
+  },
+  "description" : "РќРµСѓСЃРїРµС€РЅР°СЏ РїСЂРѕРІРµСЂРєР° РїРѕР»СѓС‡РµРЅРёРµ СЃРїРёСЃРєР° Р·Р°РєР°Р·РѕРІ Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.",
+  "descriptionHtml" : "<p>РќРµСѓСЃРїРµС€РЅР°СЏ РїСЂРѕРІРµСЂРєР° РїРѕР»СѓС‡РµРЅРёРµ СЃРїРёСЃРєР° Р·Р°РєР°Р·РѕРІ Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "РќРµСѓСЃРїРµС€РЅР°СЏ РїСЂРѕРІРµСЂРєР° РїРѕР»СѓС‡РµРЅРёРµ СЃРїРёСЃРєР° Р·Р°РєР°Р·РѕРІ Р±РµР· Р°РІС‚РѕСЂРёР·Р°С†РёРё.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "РЈСЃРїРµС€РЅРѕРµ СЃРѕР·РґР°РЅРёРµ СѓРЅРёРєР°Р»СЊРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",
+      "time" : {
+        "start" : 1747420427395,
+        "stop" : 1747420427610,
+        "duration" : 215
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@4c822e9b"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Р›РѕРіРёРЅ РїРѕРґ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј.",
+      "time" : {
+        "start" : 1747420427621,
+        "stop" : 1747420427884,
+        "duration" : 263
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "api.clientStellarBurgers.models.stellarburgers.User@4c822e9b"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "РЈРґР°Р»РµРЅРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ",
+      "time" : {
+        "start" : 1747420428054,
+        "stop" : 1747420428781,
+        "duration" : 727
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "accessToken",
+        "value" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4Mjc4NTBiOWVkMjgwMDAxYjVlZTQwMSIsImlhdCI6MTc0NzQyMDQyNywiZXhwIjoxNzQ3NDIxNjI3fQ.vDvjsMsj-rBIPzvB_Q2rBjWGEz-WubOb1KC-rBWXer8"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.OrderGetTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getUserOrderWithoutAuthorizationTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.OrderGetTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NKC7L2N"
+  }, {
+    "name" : "thread",
+    "value" : "504@DESKTOP-NKC7L2N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "РџРѕР»СѓС‡РµРЅРёРµ Р·Р°РєР°Р·РѕРІ РєРѕРЅРєСЂРµС‚РЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8657db11507f008a.json",
+  "parameterValues" : [ ]
+}
